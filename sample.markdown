@@ -43,3 +43,14 @@ To add an image use the same syntax as a link with an exclamation mark at the be
 ![Note book](4.png)
 
 <img src="4.png" width="100" />
+
+
+## Code
+
+You can add 'code' inline using a single tic.
+
+You can add multiple lines of code using three tics:
+
+```javascript
+var test= "string";
+```

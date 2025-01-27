@@ -35,3 +35,7 @@ To place a link in Markdown place the clickable test in square brackets and the 
 [CodeAdam](https://codeadam.ca)
 
 https://codeadam.ca
+
+## Images
+
+![]()

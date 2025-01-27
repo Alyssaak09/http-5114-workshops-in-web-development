@@ -27,3 +27,11 @@ This is an order list:
 
 1. Item 1
 2. Item 2
+
+## Links
+
+To place a link in Markdown place the clickable test in square brackets and the URL in round brackets:
+
+[CodeAdam](https://codeadam.ca)
+
+https://codeadam.ca

@@ -1,4 +1,4 @@
-# title
+# Markdown Sample
 
 This is a paragraph.
 

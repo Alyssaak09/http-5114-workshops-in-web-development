@@ -38,4 +38,8 @@ https://codeadam.ca
 
 ## Images
 
+To add an image use the same syntax as a link with an exclamation mark at the beginning:
+
 ![Note book](4.png)
+
+<img src="4.png" width="100" />
